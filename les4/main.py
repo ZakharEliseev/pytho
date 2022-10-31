@@ -9,7 +9,6 @@ def demo_zip():
 
 
 def main():
-    # print('Hello main!')
     demo_zip()
 
 
