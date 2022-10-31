@@ -4,6 +4,9 @@ def demo_zip():
     print(values1)
     print(values2)
 
+    for v1, v2 in zip (values1, values2):
+        print(f'{v1=}, {v2=}, sum = ', v1+v2)
+
 
 def main():
     # print('Hello main!')
