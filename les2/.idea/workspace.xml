@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00114a8e-87da-4d10-9139-51663ff73386" name="Changes" comment="11" />
+    <list default="true" id="00114a8e-87da-4d10-9139-51663ff73386" name="Changes" comment="11">
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_01/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_01/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_02/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_02/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_02/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_02/car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_02/engine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_02/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_02/plane.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_03/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_03/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_04/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_04/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_04/jsonplaceholder_requests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_04/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_04/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_05/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_05/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_05/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_06/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_07/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_08/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_09/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_10/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/homework_11/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/pytest.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/requirements-dev.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/run_tests.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/helpers/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_01/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_01/test_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_02/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_02/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_02/test_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_02/test_car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_02/test_engine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_02/test_plane.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_03/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_03/test_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_04/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_04/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_04/test_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_05/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_05/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasePython-homeworks-new/testing/test_homework_05/test_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../les4/main.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,13 +73,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/ezv/otus1/les3/les3.ipynb&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/ezv/otus1/les2"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
