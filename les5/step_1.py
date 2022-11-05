@@ -21,6 +21,8 @@ print('user2 name', user2.name)
 print(user2.__dict__)
 print('user2 age ', user2.age)
 
+User.name = 'Dic'
+
 user3 = User()
 print('user3 name', user3.name)
 print(user3.__dict__)
@@ -30,4 +32,3 @@ print('user3 name', user3.name)
 print(user1.__dict__)
 print('user1 name', user1.name)
 print('user2 name', user2.name)
-
