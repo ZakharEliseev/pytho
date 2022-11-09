@@ -1,7 +1,7 @@
 pi = 3
 
 
-def calc_circle(r):
+def C(r):
     return pi * r ** 2
 
 

@@ -14,8 +14,9 @@ def circle_triangle_area(i):
     pass
 
 
-def circle_poly_area(box):
+def circle_poly_area(i):
     pass
+
 
 # print(calc_circle(100))
 if __name__ == '__main__':

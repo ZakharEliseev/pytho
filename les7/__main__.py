@@ -1,27 +1,16 @@
-# from utils import *
-# import utils
-# from utils_v2 import *
-# import utils_v2
-# from utils_v2 import calc_circle
-# from utils_v2 import calc_circle as calc_circle_v2
-# import utils as ut
-# from utils import *
 from utils import (
-calc_circle,
-circle_box_area,
-circle_triangle_area,
-circle_poly_area
+    calc_circle,
+    circle_box_area,
+    circle_triangle_area,
+    circle_poly_area
 )
-
-# from utils.simple import calc_circle, circle_box_area
-# from utils.simple import circle_triangle_area, circle_poly_area
 
 
 def main():
     circle_1 = {
         'r': 5,
     }
-    print(globals())
+
     # circle_1['area'] = pi * circle_1['r'] ** 2
     # print(circle_1['area'])
     # print(circle_1)
