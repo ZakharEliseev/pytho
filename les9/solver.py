@@ -7,4 +7,5 @@ class Solver:
         # return 0
         return self.a + self.b
 
-
+    def mul(self,):
+        return self.a * self.b
