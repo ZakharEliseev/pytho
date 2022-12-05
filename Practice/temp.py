@@ -1,15 +1,17 @@
-integers = [3,4,5]
-def pythagorean_triple(integers):
-    a = 0
-    b = 0
-    c = 0
-    for i in integers:
-        if i == max(i):
-            a= a + i
-        elif i == min(i):
-            b = b + i
-        else:
-            c = i + c
-    return a, b, c
+class InfiniteSquaring:
+    """Класс обеспечивает бесконечное последовательное возведение в квадрат заданного числа."""
+    def __init__(self, initial_number):
+        # Здесь хранится промежуточное значение
+        self.number_to_square = initial_number
 
-print(pythagorean_triple(integers))
+    def __next__(self):
+        # Здесь мы обновляем значение и возвращаем результат
+        self.number_to_square = self.number_to_square ** 2
+        return self.number_to_square
+
+    def __iter__(self):
+        """Этот метод позволяет при передаче объекта функции iter возвращать самого себя, тем самым в точности реализуя протокол итератора."""
+        return self
+
+q = InfiniteSquaring(6)
+print(next(q))
